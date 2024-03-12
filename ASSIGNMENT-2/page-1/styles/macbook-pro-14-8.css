@@ -1,0 +1,102 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.macbook-pro-14-8-3jz {
+  box-sizing: border-box;
+  padding: 23.3rem 14.3rem 1.4rem 14.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.macbook-pro-14-8-3jz .auto-group-rnlf-AJp {
+  margin-bottom: 1.7rem;
+  box-sizing: border-box;
+  padding: 8.7rem 18.25rem 3.3rem 18.05rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.macbook-pro-14-8-3jz .auto-group-rnlf-AJp .thank-you-for-shopping-5gg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-8-3jz .auto-group-rnlf-AJp .auto-group-hhcj-QDA {
+  margin: 0rem 27.55rem 0rem 27.95rem;
+  width: calc(100% - 55.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-14-8-3jz .auto-group-rnlf-AJp .auto-group-hhcj-QDA .star-1-Kqv {
+  width: 6.1rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-8-3jz .auto-group-rnlf-AJp .auto-group-hhcj-QDA .star-5-5KJ {
+  width: 6.1rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-8-3jz .auto-group-rnlf-AJp .auto-group-hhcj-QDA .star-4-Rtx {
+  width: 6.1rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-8-3jz .auto-group-rnlf-AJp .auto-group-hhcj-QDA .star-3-BNL {
+  margin-right: 0.4rem;
+  width: 6.1rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-8-3jz .auto-group-rnlf-AJp .auto-group-hhcj-QDA .star-2-XBJ {
+  width: 6.1rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-8-3jz .image-25-3vL {
+  margin-left: 3.5rem;
+  width: 88.4rem;
+  height: 45rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}

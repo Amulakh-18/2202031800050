@@ -1,0 +1,293 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.macbook-pro-14-1-ZZW {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #e5d7bb;
+}
+.macbook-pro-14-1-ZZW .auto-group-ikqb-z92 {
+  margin-bottom: 0.7rem;
+  width: 100%;
+  height: 6.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-ZZW .auto-group-ikqb-z92 .auto-group-ikqb-z92-sub-0 {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Itim, 'Source Sans Pro';
+}
+.macbook-pro-14-1-ZZW .auto-group-ikqb-z92 .auto-group-ikqb-z92-sub-1 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Itim, 'Source Sans Pro';
+}
+.macbook-pro-14-1-ZZW .auto-group-ikqb-z92 .auto-group-ikqb-z92-sub-2 {
+}
+.macbook-pro-14-1-ZZW .auto-group-gag7-vD2 {
+  margin-bottom: 0.2rem;
+  width: 100%;
+  height: 7.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-ZZW .auto-group-gag7-vD2 .auto-group-wnhv-MSk {
+  margin: 0.2rem 1.4rem 0rem 0rem;
+  width: 42.5rem;
+  height: 6.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-ZZW .auto-group-gag7-vD2 .auto-group-wnhv-MSk .chuck-taylor-eAx {
+  width: 42.5rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.27;
+  color: #000000;
+  font-family: Gravitas One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-1-ZZW .auto-group-gag7-vD2 .auto-group-wnhv-MSk .women-iwW {
+  width: 6.4rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 23.4rem;
+  top: 4.4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2375;
+  color: #000000;
+  font-family: Gudea, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-1-ZZW .auto-group-gag7-vD2 .auto-group-wnhv-MSk .men-dHn {
+  width: 3.6rem;
+  height: 2.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 37.3rem;
+  top: 4.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2375;
+  color: #000000;
+  font-family: Gudea, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-1-ZZW .auto-group-gag7-vD2 .auto-group-7wdv-7ik {
+  margin: 0rem 7.9rem 0.1rem 0rem;
+  width: 8.5rem;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-ZZW .auto-group-gag7-vD2 .auto-group-7wdv-7ik .converse-1-1-CVJ {
+  width: 5.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-1-ZZW .auto-group-gag7-vD2 .auto-group-7wdv-7ik .kids-vw6 {
+  width: 3.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 4.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2375;
+  color: #000000;
+  font-family: Gudea, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-1-ZZW .auto-group-gag7-vD2 .sale-3F2 {
+  margin: 4.4rem 14.3rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2375;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Gudea, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-ZZW .auto-group-gag7-vD2 .sign-in-Ljv {
+  margin: 0rem 3rem 0.5rem 0rem;
+  cursor: pointer;
+  text-align: right;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.05;
+  color: #000000;
+  font-family: Galdeano, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-ZZW .auto-group-gag7-vD2 .icons8-person-32-1-TJk {
+  margin: 0rem 0.6rem 1.9rem 0rem;
+  width: 5rem;
+  height: 4.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-ZZW .auto-group-gag7-vD2 .icons8-heart-50-1-wUp {
+  margin: 0rem 0.5rem 1.6rem 0rem;
+  width: 4.5rem;
+  height: 4.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-ZZW .auto-group-gag7-vD2 .icons8-shopping-cart-50-1-G1J {
+  margin: 0rem 1.7rem 1.4rem 0rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-ZZW .auto-group-gag7-vD2 .auto-group-dtyj-aXn {
+  margin: 0.6rem 0rem 1.1rem 0rem;
+  box-sizing: border-box;
+  padding: 0.2rem 2.309rem 0.1rem 1.3rem;
+  height: calc(100% - 1.7rem);
+  display: flex;
+  align-items: center;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-ZZW .auto-group-gag7-vD2 .auto-group-dtyj-aXn .search-4xk {
+  margin-right: 15.3rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.05;
+  color: #ffffff;
+  font-family: Galdeano, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-ZZW .auto-group-gag7-vD2 .auto-group-dtyj-aXn .frame-ntk {
+  margin-bottom: 0.1094rem;
+  width: 4.2906rem;
+  height: 4.3906rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-ZZW .auto-group-g5kd-iXW {
+  width: 100%;
+  height: 83.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-ZZW .auto-group-g5kd-iXW .auto-group-xzh5-4rG {
+  width: 74.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-ZZW .auto-group-g5kd-iXW .auto-group-xzh5-4rG .rectangle-3-QfE {
+  width: 74.4rem;
+  height: 44.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #1c3079;
+}
+.macbook-pro-14-1-ZZW .auto-group-g5kd-iXW .auto-group-xzh5-4rG .the-all-star-bb-trilliant-cx-gives-your-moves-some-heat-with-supportive-cushioning-and-quick-responsive-movement-shop-now-jSc {
+  width: 69rem;
+  height: 13.5rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 25.9rem;
+  text-align: right;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.0499999523;
+  color: #ffffff;
+  font-family: Galdeano, 'Source Sans Pro';
+}
+.macbook-pro-14-1-ZZW .auto-group-g5kd-iXW .auto-group-xzh5-4rG .the-all-star-bb-trilliant-cx-gives-your-moves-some-heat-with-supportive-cushioning-and-quick-responsive-movement-shop-now-jSc .the-all-star-bb-trilliant-cx-gives-your-moves-some-heat-with-supportive-cushioning-and-quick-responsive-movement-shop-now-jSc-sub-0 {
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.05;
+  color: #ffffff;
+  font-family: Galdeano, 'Source Sans Pro';
+}
+.macbook-pro-14-1-ZZW .auto-group-g5kd-iXW .auto-group-xzh5-4rG .the-all-star-bb-trilliant-cx-gives-your-moves-some-heat-with-supportive-cushioning-and-quick-responsive-movement-shop-now-jSc .the-all-star-bb-trilliant-cx-gives-your-moves-some-heat-with-supportive-cushioning-and-quick-responsive-movement-shop-now-jSc-sub-1 {
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.05;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Galdeano, 'Source Sans Pro';
+}
+.macbook-pro-14-1-ZZW .auto-group-g5kd-iXW .auto-group-xzh5-4rG .bring-the-heat-Uh2 {
+  width: 44.6rem;
+  height: 20.4rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 4.7rem;
+  text-align: center;
+  font-size: 8rem;
+  font-weight: 400;
+  line-height: 1.27;
+  color: #ffffff;
+  font-family: Gelasio, 'Source Sans Pro';
+}
+.macbook-pro-14-1-ZZW .auto-group-g5kd-iXW .auto-group-xzh5-4rG .image-1-NGc {
+  width: 74.4rem;
+  height: 40.9rem;
+  position: absolute;
+  left: 0;
+  top: 43rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.macbook-pro-14-1-ZZW .auto-group-g5kd-iXW .image-2-6Cc {
+  width: 76.8rem;
+  height: 83.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
